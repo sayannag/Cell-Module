@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  2 14:23:10 2019
-
-@author: nagsa
-"""
-
 import numpy as np
 
 class cell:
