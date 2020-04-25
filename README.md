@@ -1,6 +1,6 @@
 # Cell-Module
-# Creates a python cell array using numpy
-# Some examples:
+Creates a python cell array using numpy
+Some examples:
 A = cell(5,5) # creates a 5 x 5 cell array
 A.insert(0,0,4)
 A.insert(2,0,'s')
