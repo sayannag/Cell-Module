@@ -4,6 +4,8 @@ Creates a python cell array using numpy
 
 Some examples:
 
+from cell_module import cell
+
 A = cell(5,5) # creates a 5 x 5 cell array
 
 A.insert(0,0,4)
